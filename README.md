@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Eduard <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h1 align="center">Hi, I'm Eduard <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" width="32" height="32"/></h1>
 <h3 align="center">Frontend developer from Russia</h3>
 
 <div align="center" >
