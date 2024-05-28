@@ -38,6 +38,9 @@
    <img src="https://camo.githubusercontent.com/e5ccb60374ca5294c2498a46aad044490c18313004ae1495f794f82565a7c1f2/68747470733a2f2f736173732d736373732e72752f6173736574732f696d672f7374796c6567756964652f7365616c2d636f6c6f722d61656630333534632e706e67" width="50" height="50" alt="sass"/>
    <img src="https://camo.githubusercontent.com/1f5c5d15135ea1e23dea65371956c24c30295b59297513287e6d68c11b2cbbc4/68747470733a2f2f63646e2e636f7572736568756e7465722e6e65742f63617465676f72792f6769742e706e67" width="50" height="50" alt="git"/>
 </div>
+
+
+<!---
 <h2 align="center">My stats</h2>
 
 <div align="center">
@@ -55,7 +58,6 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DogmaN-fe&repo=redux-toolkit)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
-<!---
 DogmaN-fe/DogmaN-fe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
