@@ -21,7 +21,7 @@
     📖Task manager
   </a>
   <a href="https://my-website-mocha-ten.vercel.app/" target="_blank">
-    🌐business card website 
+    🌐business card website(in work) 
   </a>
   <a href="https://ovinograd.vercel.app/" target="_blank">
     🖥Landing
