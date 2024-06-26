@@ -53,18 +53,13 @@
 
 <div align="center">
   
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DogmaN-fe)](https://github.com/anuraghazra/github-readme-stats)
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=DogmaN-fe)](https://github.com/ryo-ma/github-profile-trophy)
 
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=DogmaN-fe&theme=radical" alt="GitHub Streak" /></a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DogmaN-fe)](https://github.com/anuraghazra/github-readme-stats)
-
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DogmaN-fe)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DogmaN-fe&repo=ToDo-List)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DogmaN-fe&repo=Ovinograd-)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DogmaN-fe&repo=redux-toolkit)](https://github.com/anuraghazra/github-readme-stats)
-
 </div>
 <!---
 DogmaN-fe/DogmaN-fe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
