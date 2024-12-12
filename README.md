@@ -17,7 +17,7 @@
 
 <h2 align="center">Pet project</h2>
 <div align="center">
-  <a href="https://to-do-list-alpha-smoky.vercel.app/" target="_blank">
+ <!--  <a href="https://to-do-list-alpha-smoky.vercel.app/" target="_blank">
     📖Task manager
   </a>
   <a href="https://my-website-mocha-ten.vercel.app/" target="_blank">
@@ -31,8 +31,8 @@
   </a>
   <a href="https://site-authorization.vercel.app" target="_blank">
     🔐Site with authorization
-  </a>
-  
+  </a> -->
+  Идет реконструкция....
 </div>
 
 <h2 align="center">Stack</h2>
