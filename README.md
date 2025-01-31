@@ -2,7 +2,7 @@
 <h3 align="center">Frontend developer from Russia</h3>
 
 <div align="center" >
-  <img href="https://c.tenor.com/qD-f9yFZjy0AAAAd/tenor.gif" alt="Опять работа" />
+  ![hippo](https://c.tenor.com/qD-f9yFZjy0AAAAd/tenor.gif)
 </div>
 
 <h2 align="center">Contacs</h2>
