@@ -1,12 +1,13 @@
-<h1 align="center">Hi, I'm Eduard <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" width="32" height="32"/></h1>
-<h3 align="center">Frontend developer from Russia</h3>
+<h1 align="center">Привет, меня зовут Эдуард! <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" width="32" height="32"/></h1>
+<h3 align="center">Я Frontend developer</h3>
 
 <div align="center" >
   <img src="https://c.tenor.com/qD-f9yFZjy0AAAAd/tenor.gif"/>
-
+  <h3>About me</h3>
+  <p>Привет! Я - молодой frontend-разработчик, увлеченный миром веб-технологий. Постоянно стремлюсь к изучению нового, пишу чистый и производительный код. Легко адаптируюсь к различным форматам работы, нахожу общий язык с командой и нацелен на профессиональный рост.</p>
 </div>
 
-<h2 align="center">Contacs</h2>
+<h2 align="center">Контакты</h2>
 <div align="center" >
   <a href="https://t.me/Eduard_np" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram"/>
@@ -16,7 +17,7 @@
   </a>
 </div>
 
-<h2 align="center">Pet project</h2>
+<h2 align="center">Пет проекты</h2>
 <div align="center">
  <!--  <a href="https://to-do-list-alpha-smoky.vercel.app/" target="_blank">
     📖Task manager
@@ -36,7 +37,7 @@
   Идет реконструкция....
 </div>
 
-<h2 align="center">Stack</h2>
+<h2 align="center">Технологии</h2>
 <div align="center">
    <img src="https://github.com/devicons/devicon/raw/master/icons/javascript/javascript-original.svg" width="50" height="50" alt="javascript"/>
    <img src="https://github.com/devicons/devicon/raw/master/icons/typescript/typescript-original.svg" width="50" height="50" alt="typescript"/>
@@ -53,7 +54,7 @@
 </div>
 
 
-<h2 align="center">My stats</h2>
+<h2 align="center">Моя статистика</h2>
 
 <div align="center">
   
