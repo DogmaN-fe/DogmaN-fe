@@ -2,12 +2,7 @@
 <h3 align="center">Frontend developer from Russia</h3>
 
 <div align="center" >
-  <div class="tenor-gif-embed" data-postid="12123584605669920557" data-share-method="host" data-aspect-ratio="1.84444" data-width="100%">
-    <a href="https://tenor.com/view/apeing-ape-monkey-gorilla-zug-zug-gif-12123584605669920557">Apeing Monkey GIF</a>
-    from 
-    <a href="https://tenor.com/search/apeing-gifs">Apeing GIFs</a>
-  </div> 
-  <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+  <a href="https://c.tenor.com/qD-f9yFZjy0AAAAd/tenor.gif" alt="Опять работа"></a>
 </div>
 
 <h2 align="center">Contacs</h2>
