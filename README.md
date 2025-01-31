@@ -2,7 +2,7 @@
 <h3 align="center">Frontend developer from Russia</h3>
 
 <div align="center" >
-  <img src="https://camo.githubusercontent.com/037a5a66eedd7c2b8ba492b6a597d56e366bd1c7feb436ae2a2aa50519168201/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f7a4f76424b5555454552644e6d2f67697068792e676966" height="132" alt="альтернативный текст">
+  <img src="https://tenor.com/ru/view/apeing-ape-monkey-gorilla-zug-zug-gif-12123584605669920557" height="132" alt="за работой">
 </div>
 
 <h2 align="center">Contacs</h2>
@@ -56,8 +56,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DogmaN-fe)](https://github.com/anuraghazra/github-readme-stats)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=DogmaN-fe)](https://github.com/ryo-ma/github-profile-trophy)
-
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=DogmaN-fe&theme=radical" alt="GitHub Streak" /></a>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DogmaN-fe)](https://github.com/anuraghazra/github-readme-stats)
 </div>
